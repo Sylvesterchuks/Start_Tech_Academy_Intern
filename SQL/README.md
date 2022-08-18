@@ -47,8 +47,8 @@ descending order of the date.
 
 * If you want to analyze data further you can write your own queries.
 
-<a href="Datasets">Datasets</a>
-IPL_Ball:
+<p><a href="Datasets">Datasets:</a></p>
+IPL_Ball
 
 <a href="./Datasets/IPL_Ball.csv">IPL_Ball.csv</a>
 
@@ -56,4 +56,4 @@ IPL_Matches
 
 <a href="./Datasets/IPL_matches.csv">IPL_matches.csv</a>
 
-<a href="matches_data_analysis">Solutions</a>
+<a href="matches_data_analysis">Click Here To See My Solutions</a>
