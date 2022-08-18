@@ -48,3 +48,12 @@ descending order of the date.
 * If you want to analyze data further you can write your own queries.
 
 <a href="#">Datasets</a>
+IPL_Ball:
+
+<a href="">IPL_Ball.csv</a>
+
+IPL_Matches
+
+<a href="">IPL_matches.csv</a>
+
+<a href="#">Solutions</a>
