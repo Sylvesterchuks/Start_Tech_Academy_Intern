@@ -64,7 +64,7 @@ COPY deliveries FROM
 SELECT * 
 FROM matches
 LIMIT 5;
-![](E:\cdrive\start_tech_inteern\sql\Screenshot_01.jpg)
+![](images\Screenshot_01.jpg)
 
 
 SELECT * 
