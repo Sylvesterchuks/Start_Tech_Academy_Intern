@@ -246,7 +246,7 @@ WHERE home_away_win='home-win'
 GROUP BY 1,2
 ORDER BY 3 DESC;
 
-<img src="images/Screenshot_14.jpg" />
+<img src="images/Screenshot_15.jpg" />
 
 </pre>
 
