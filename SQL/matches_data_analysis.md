@@ -64,7 +64,7 @@ COPY deliveries FROM
 SELECT * 
 FROM matches
 LIMIT 5;
-<img src="images/Screenshot_01.jpg" alt="hi" class="inline"/>
+<img src="images/Screenshot_01.jpg" />
 
 
 SELECT * 
