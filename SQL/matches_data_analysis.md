@@ -162,7 +162,7 @@ FROM matches
 GROUP BY 1
 ORDER BY 1;
 
-<img src="images/Screenshot_12.jpg" />
+<img src="images/Screenshot_11.jpg" />
 
 </pre>
 
